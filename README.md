@@ -13,4 +13,4 @@ Objectifs
 
 
 Relevant files include:
-- [Maitriser l’API de twitter pour l’extraction des tweets]
+- Maitriser l’API de twitter pour l’extraction des tweets
